@@ -6,8 +6,8 @@
 /// 
 /// Author: John Luetke <john@johnluetke.net>
 /// 
-/// Licensed under the Creative Commons Attribution Non-Commercial license
-/// http://creativecommons.org/licenses/by-nc/3.0/
+/// Licensed under the Creative Commons Attribution license
+/// http://creativecommons.org/licenses/by/3.0/
 /// 
 
 using System;
